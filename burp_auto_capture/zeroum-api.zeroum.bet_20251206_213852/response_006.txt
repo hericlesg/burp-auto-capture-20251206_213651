@@ -1,0 +1,23 @@
+HTTP/2 400 Bad Request
+Content-Type: application/json
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Vary: Origin
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Length: 50
+Expires: Sun, 07 Dec 2025 00:38:06 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Sun, 07 Dec 2025 00:38:06 GMT
+Set-Cookie: AWSALB=h1533p4gOccOJcW9W+lmoImtXqk5SkM/THEYdc5c15AWyCiv6znWwtH64qp7QYSy6AYOIvkFiihy7bvhk7Z52iS3jqNpQ4NCPys6ybohc8fPfKYMz5yhZODYhtm9; Expires=Sun, 14 Dec 2025 00:38:06 GMT; Path=/
+Set-Cookie: AWSALBCORS=h1533p4gOccOJcW9W+lmoImtXqk5SkM/THEYdc5c15AWyCiv6znWwtH64qp7QYSy6AYOIvkFiihy7bvhk7Z52iS3jqNpQ4NCPys6ybohc8fPfKYMz5yhZODYhtm9; Expires=Sun, 14 Dec 2025 00:38:06 GMT; Path=/; SameSite=None; Secure
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=337
+Server-Timing: origin; dur=51
+Server-Timing: ak_p; desc="1765067886548_34899011_376452670_42302_4855_30_0_15";dur=1
+
+{"errorCode":2,"errorDescription":"E-mail Existe"}
