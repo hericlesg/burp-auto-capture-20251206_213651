@@ -1,0 +1,47 @@
+{
+  "capture_timestamp": "20251206_214127", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/k.clarity.ms_20251206_214127/request_001.txt", 
+      "url": "https://k.clarity.ms:443/collect", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/k.clarity.ms_20251206_214127/response_001.txt", 
+      "timestamp": 1765067821840
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/k.clarity.ms_20251206_214127/request_002.txt", 
+      "url": "https://k.clarity.ms:443/collect", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/k.clarity.ms_20251206_214127/response_002.txt", 
+      "timestamp": 1765067836986
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/k.clarity.ms_20251206_214127/request_003.txt", 
+      "url": "https://k.clarity.ms:443/collect", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/k.clarity.ms_20251206_214127/response_003.txt", 
+      "timestamp": 1765067842194
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/k.clarity.ms_20251206_214127/request_004.txt", 
+      "url": "https://k.clarity.ms:443/collect", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/k.clarity.ms_20251206_214127/response_004.txt", 
+      "timestamp": 1765067852606
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/k.clarity.ms_20251206_214127/request_005.txt", 
+      "url": "https://k.clarity.ms:443/collect", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/k.clarity.ms_20251206_214127/response_005.txt", 
+      "timestamp": 1765067853172
+    }
+  ], 
+  "host": "k.clarity.ms", 
+  "total_requests": 5
+}
