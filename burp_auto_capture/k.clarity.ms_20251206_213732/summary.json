@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20251206_213732", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/k.clarity.ms_20251206_213732/request_001.txt", 
+      "url": "https://k.clarity.ms:443/collect", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/k.clarity.ms_20251206_213732/response_001.txt", 
+      "timestamp": 1765067821840
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/k.clarity.ms_20251206_213732/request_002.txt", 
+      "url": "https://k.clarity.ms:443/collect", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/k.clarity.ms_20251206_213732/response_002.txt", 
+      "timestamp": 1765067836986
+    }
+  ], 
+  "host": "k.clarity.ms", 
+  "total_requests": 2
+}
